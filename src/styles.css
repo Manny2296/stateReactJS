@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(45, 53, 76);
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.mycomponent {
+  font-family: sans-serif;
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+.img-statefull {
+  height: 90vmin;
+  pointer-events: none;
+  margin-right: 10px;
+}
